@@ -70,7 +70,7 @@ funda-smoke-tests/
 │ ├── A.authentication/
 │     └── A.1 login.feature /                       // Test scenarios for the login process
 │ ├── B.homepage/
-│     └── B.1 homepage_ui.feature                   // Test scenarios for the homepage ui
+│     └── B.1 homepage.feature                      // Test scenarios for the homepage ui and page load
 │ ├── C.listings/
 │     ├── C.1.agent/
 │          └── C.1.1 agent_contact.feature          // Test scenarios for the agent contact form
